@@ -11,7 +11,7 @@ Computer scientist
 ![Lua](https://img.shields.io/badge/Lua-512BD4?style=flat-square&logo=Lua&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
-[![NodeJs](https://img.shields.io/badge/-nodejs-3776AB?style=flat-square&logo=python&logoColor=ffffff)]()
+[![NodeJs](https://img.shields.io/badge/-NodeJs-3776AB?style=flat-square&logo=NodeJs&logoColor=ffffff)]()
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/-PHP-8DD6F9?style=flat-square&logo=PHP&logoColor=ffffff)
