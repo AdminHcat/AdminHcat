@@ -6,7 +6,7 @@
 Computer scientist
 
 - My [Blog](https://blog.hcat.work/)
-- Email [Email: admin@hcat.work](mailto:admin@hcat.work)
+- Email: [admin@hcat.work](mailto:admin@hcat.work)
 
 ![Lua](https://img.shields.io/badge/Lua-512BD4?style=flat-square&logo=Lua&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
