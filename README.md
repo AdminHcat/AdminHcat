@@ -8,6 +8,8 @@ Computer scientist
 - My [Blog](https://blog.hcat.work/)
 - Email: [admin@hcat.work](mailto:admin@hcat.work)
 
+[![HitCount](https://hits.dwyl.com/AdminHcat/AdminHcat.svg?style=flat-square&show=unique)](http://hits.dwyl.com/AdminHcat/AdminHcat)
+
 ![Lua](https://img.shields.io/badge/Lua-512BD4?style=flat-square&logo=Lua&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 [![Assembly](https://img.shields.io/badge/-Assembly-3776AB?style=flat-square&logo=Assembly&logoColor=ff0000)]()
